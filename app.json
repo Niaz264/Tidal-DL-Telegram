@@ -6,9 +6,9 @@
     "music",
     "uploader"
   ],
-  "website": "https://github.com/vinayak-7-0-3/Tidal-DL-Telegram",
-  "repository": "https://github.com/vinayak-7-0-3/Tidal-DL-Telegram",
-  "success_url": "https://github.com/vinayak-7-0-3/Tidal-DL-Telegram",
+  "website": "https://github.com/Niaz264/Tidal-DL-Telegram",
+  "repository": "https://github.com/Niaz264/Tidal-DL-Telegram",
+  "success_url": "https://github.com/Niaz264/Tidal-DL-Telegram",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Telegram bot token",
